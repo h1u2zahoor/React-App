@@ -1,0 +1,17 @@
+.userList {
+  background-color: whitesmoke;
+  padding: 20px;
+  margin: auto;
+  width: 50%;
+  border: 2px solid rebeccapurple;
+  border-radius: 12px;
+}
+.user {
+  background-color: lightgrey;
+  padding: 10px;
+  border-radius: 12px;
+  font-weight: bold;
+  color: maroon;
+  border: 2px solid black;
+  margin: 2px;
+}

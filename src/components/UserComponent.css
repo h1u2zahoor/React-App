@@ -1,0 +1,29 @@
+.box {
+  background-color: whitesmoke;
+  padding: 20px;
+  margin: auto;
+  width: 25%;
+  border: 2px solid rebeccapurple;
+  border-radius: 12px;
+}
+
+label {
+  font-weight: bold;
+}
+
+.Action {
+  text-align: right;
+}
+
+.Action button {
+  font-weight: bold;
+  background-color: lightcoral;
+  margin-top: 10px;
+  border-radius: 6px;
+}
+
+input {
+  width: 100%;
+  border-radius: 15px;
+  border-color: lightgray;
+}
